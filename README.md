@@ -16,10 +16,10 @@ Using Conda
   1. Install Pipenv(if not already installed):
      pip install pipenv
 
- 2. Install Dependencies with Pipenv:
+  2. Install Dependencies with Pipenv:
     pipenv install
 
-3. Activate the Virtual Environment:
+  3. Activate the Virtual Environment:
     pipenv shell
 
 ### Project Phases and Python Commands
